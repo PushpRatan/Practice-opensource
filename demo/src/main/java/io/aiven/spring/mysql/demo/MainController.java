@@ -1,7 +1,0 @@
-package io.aiven.spring.mysql.demo;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-public class MainController {
-}
